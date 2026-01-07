@@ -1,0 +1,20 @@
+# Models
+models/
+*.safetensors
+*.bin
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Graph generation outputs (optional, keeping them for now as they are small)
+# crime_ontology_viz.png
+# crime_ontology.gml
